@@ -1,0 +1,27 @@
+{
+  "name": "api-cypress",
+  "version": "1.0.0",
+  "description": "learning to automate API tests with cypress",
+  "main": "index.js",
+  "scripts": {
+    "test": "cypress open"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LivRosa/api_cypress.git"
+  },
+  "keywords": [
+    "test",
+    "api",
+    "cypress"
+  ],
+  "author": "Lívia Santos de Araújo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/LivRosa/api_cypress/issues"
+  },
+  "homepage": "https://github.com/LivRosa/api_cypress#readme",
+  "devDependencies": {
+    "cypress": "^13.15.1"
+  }
+}
